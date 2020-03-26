@@ -503,6 +503,14 @@
             }
         },
         {
+            "Key": "ec7bf12c-ff3a-46df-911d-a21932b1141d",
+            "Value": {
+                "id": "1182a7dc-fa3b-419a-8416-2cd7f14b7d08",
+                "resourcePath": "paths\\path_dinosaur\\path_dinosaur.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "f01b2ce9-41e5-40cd-9676-776b975c14b2",
             "Value": {
                 "id": "e185da73-0f74-4b0c-a769-e4cd0eb63081",
@@ -544,14 +552,14 @@
         }
     ],
     "script_order": [
+        "244e48cb-59be-4a3f-9081-77ecf06d643d",
         "0b32d3ef-65f5-46a4-816f-8110e890e5b0",
         "26cc7539-1023-499a-b34d-20c1ed81da91",
-        "244e48cb-59be-4a3f-9081-77ecf06d643d",
         "4d73b5ae-c4fb-41d3-817c-64c7fa9e88f3",
         "7f0a86a5-52f0-465b-b504-c6135df603c2",
+        "d22c8ce8-ad44-48ed-b54d-47d192c4b70e",
         "d5ffdfb3-acb6-42bc-8569-13523392f6fc",
-        "eb73846b-b215-427d-a3dd-522c78e6570e",
-        "d22c8ce8-ad44-48ed-b54d-47d192c4b70e"
+        "eb73846b-b215-427d-a3dd-522c78e6570e"
     ],
     "tutorial": ""
 }

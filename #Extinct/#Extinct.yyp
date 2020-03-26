@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "ba4485af-6edd-47c5-b584-581aac8da4c5",
+            "Value": {
+                "id": "a48b9103-8acf-40a3-a1e3-fb56194a79be",
+                "resourcePath": "objects\\obj_first_particle\\obj_first_particle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c7155015-0601-442a-acf5-bea1f5f2a5a1",
             "Value": {
                 "id": "80418163-68eb-40f2-9e4f-3ae08de2462a",

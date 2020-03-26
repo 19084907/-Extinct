@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "b6ba6419-ef57-4d21-aaab-f9c9c5d55b9e",
+            "Value": {
+                "id": "9a720403-6a6e-4da6-b958-3c0a3a412b69",
+                "resourcePath": "rooms\\Village\\Village.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ba4485af-6edd-47c5-b584-581aac8da4c5",
             "Value": {
                 "id": "a48b9103-8acf-40a3-a1e3-fb56194a79be",

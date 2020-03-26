@@ -1,8 +1,8 @@
 {
-    "id": "38907dce-5d99-4410-8608-dc985a6f9d6b",
+    "id": "b143cc5c-bd55-4412-90e8-0e4b1ee5b8f5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Trex",
+    "name": "obj_cameraGO",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5b78488f-879b-4acb-aed0-7a5f1920601a",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

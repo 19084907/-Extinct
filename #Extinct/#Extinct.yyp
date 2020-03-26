@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "eb73846b-b215-427d-a3dd-522c78e6570e",
+            "Value": {
+                "id": "0407802b-d977-4155-be87-f4a93858f2aa",
+                "resourcePath": "scripts\\get_hover\\get_hover.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f01b2ce9-41e5-40cd-9676-776b975c14b2",
             "Value": {
                 "id": "e185da73-0f74-4b0c-a769-e4cd0eb63081",
@@ -448,7 +456,7 @@
         }
     ],
     "script_order": [
-        
+        "eb73846b-b215-427d-a3dd-522c78e6570e"
     ],
     "tutorial": ""
 }

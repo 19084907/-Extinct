@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "d9ed3c6e-2911-42c9-b9a6-bb1bf8010997",
+            "Value": {
+                "id": "7f5d80d3-6c21-4bb0-9432-c54b4fa8d311",
+                "resourcePath": "sprites\\spr_bonetower\\spr_bonetower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "da87d599-9a34-4038-809a-f17b1b187dbb",
             "Value": {
                 "id": "a32b73b6-fa90-4e16-b66f-deddb66a393c",

@@ -42,7 +42,7 @@
             "Key": "092b448e-25aa-4385-a3a8-41d769bef5f0",
             "Value": {
                 "id": "e2132448-b4cb-48eb-b5af-50dba9a98e68",
-                "resourcePath": "objects\\obj_Axe\\obj_Axe.yy",
+                "resourcePath": "objects\\obj_axe\\obj_axe.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -244,6 +244,14 @@
                 "id": "85b61c8a-7b70-4c98-8cb9-395c86d115bd",
                 "resourcePath": "views\\7401167c-f833-4dc1-9027-1cab02d55383.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "77f93395-bb17-4fd9-a7ac-003cb5e07975",
+            "Value": {
+                "id": "d04ac7e5-a951-4cb9-8c1e-1b7c5138df8f",
+                "resourcePath": "sprites\\spr_skull_missile\\spr_skull_missile.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -512,14 +520,14 @@
         }
     ],
     "script_order": [
-        "0b32d3ef-65f5-46a4-816f-8110e890e5b0",
         "244e48cb-59be-4a3f-9081-77ecf06d643d",
+        "0b32d3ef-65f5-46a4-816f-8110e890e5b0",
         "26cc7539-1023-499a-b34d-20c1ed81da91",
         "4d73b5ae-c4fb-41d3-817c-64c7fa9e88f3",
-        "7f0a86a5-52f0-465b-b504-c6135df603c2",
+        "d5ffdfb3-acb6-42bc-8569-13523392f6fc",
         "d22c8ce8-ad44-48ed-b54d-47d192c4b70e",
         "eb73846b-b215-427d-a3dd-522c78e6570e",
-        "d5ffdfb3-acb6-42bc-8569-13523392f6fc"
+        "7f0a86a5-52f0-465b-b504-c6135df603c2"
     ],
     "tutorial": ""
 }

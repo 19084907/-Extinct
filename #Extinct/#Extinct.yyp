@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "5b78488f-879b-4acb-aed0-7a5f1920601a",
+            "Value": {
+                "id": "b039e8b5-32ef-4e39-a872-1d83c4935bd6",
+                "resourcePath": "sprites\\spr_Trex\\spr_Trex.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "661afb26-dc9a-4eec-83b1-58ab0085efaf",
             "Value": {
                 "id": "362c48b9-99e7-4e65-9215-1ffd81cdcf44",

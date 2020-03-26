@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_sword",
     "eventList": [
-        
+        {
+            "id": "8779adc2-4161-4313-ab09-991412367d13",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 12,
+            "m_owner": "1683993a-e229-4740-b582-ae377eb0bac1"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

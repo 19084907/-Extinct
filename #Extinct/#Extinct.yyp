@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "888fddb4-8121-479f-8756-2676d67473bb",
+            "Value": {
+                "id": "c964e43d-bb22-432d-9c46-2cf9a5afb7a3",
+                "resourcePath": "objects\\obj_triceratops_skull_shield\\obj_triceratops_skull_shield.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "89623af2-7fb4-4483-8538-ba8c32a1437f",
             "Value": {
                 "id": "9b8fa5b5-7816-46f5-8960-a491560291dd",

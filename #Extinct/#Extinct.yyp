@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "38907dce-5d99-4410-8608-dc985a6f9d6b",
+            "Value": {
+                "id": "1edc3b7a-d530-4608-8cd7-716d1b1882c0",
+                "resourcePath": "objects\\obj_Trex\\obj_Trex.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3bc694f5-7482-4345-a92b-9ba63b16feb7",
             "Value": {
                 "id": "49b6b2d1-761f-48c8-9830-68fb1318af79",

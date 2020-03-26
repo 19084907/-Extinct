@@ -1,18 +1,18 @@
 {
-    "id": "1683993a-e229-4740-b582-ae377eb0bac1",
+    "id": "888fddb4-8121-479f-8756-2676d67473bb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_sword",
+    "name": "obj_rhino",
     "eventList": [
         {
-            "id": "8779adc2-4161-4313-ab09-991412367d13",
+            "id": "2973d3b7-7a35-400f-9956-977348c2a715",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 12,
-            "m_owner": "1683993a-e229-4740-b582-ae377eb0bac1"
+            "m_owner": "888fddb4-8121-479f-8756-2676d67473bb"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "8d247145-b600-4dac-af9b-82d60b221bff",
+    "spriteId": "52cee949-9251-485b-8f69-5e722901bafc",
     "visible": true
 }

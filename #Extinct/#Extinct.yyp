@@ -66,7 +66,7 @@
             "Key": "1683993a-e229-4740-b582-ae377eb0bac1",
             "Value": {
                 "id": "c6b5406f-8ac9-4e52-8ff4-287b3b4c1e0d",
-                "resourcePath": "objects\\obj_sword\\obj_sword.yy",
+                "resourcePath": "objects\\obj_jaw\\obj_jaw.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -186,7 +186,7 @@
             "Key": "52cee949-9251-485b-8f69-5e722901bafc",
             "Value": {
                 "id": "b52c8850-e3f2-4bb7-9212-c399fd98abf4",
-                "resourcePath": "sprites\\spr_triceratopsskullshield\\spr_triceratopsskullshield.yy",
+                "resourcePath": "sprites\\spr_rhino\\spr_rhino.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -266,7 +266,7 @@
             "Key": "888fddb4-8121-479f-8756-2676d67473bb",
             "Value": {
                 "id": "c964e43d-bb22-432d-9c46-2cf9a5afb7a3",
-                "resourcePath": "objects\\obj_triceratops_skull_shield\\obj_triceratops_skull_shield.yy",
+                "resourcePath": "objects\\obj_rhino\\obj_rhino.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -282,7 +282,7 @@
             "Key": "8d247145-b600-4dac-af9b-82d60b221bff",
             "Value": {
                 "id": "05116f39-f53c-47bc-ad89-b18753e8191a",
-                "resourcePath": "sprites\\spr_sword\\spr_sword.yy",
+                "resourcePath": "sprites\\spr_jaw\\spr_jaw.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "d5ffdfb3-acb6-42bc-8569-13523392f6fc",
+            "Value": {
+                "id": "4ec8014b-e187-48d5-af7a-c2e1c5b55ceb",
+                "resourcePath": "scripts\\destroyLocalHUD\\destroyLocalHUD.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d75f8796-4e4d-4368-86a0-0dddb642fae9",
             "Value": {
                 "id": "0218283c-0d60-4e6c-ade0-68ee8a357fdc",
@@ -504,13 +512,14 @@
         }
     ],
     "script_order": [
-        "26cc7539-1023-499a-b34d-20c1ed81da91",
         "0b32d3ef-65f5-46a4-816f-8110e890e5b0",
+        "244e48cb-59be-4a3f-9081-77ecf06d643d",
+        "26cc7539-1023-499a-b34d-20c1ed81da91",
         "4d73b5ae-c4fb-41d3-817c-64c7fa9e88f3",
         "7f0a86a5-52f0-465b-b504-c6135df603c2",
         "d22c8ce8-ad44-48ed-b54d-47d192c4b70e",
-        "244e48cb-59be-4a3f-9081-77ecf06d643d",
-        "eb73846b-b215-427d-a3dd-522c78e6570e"
+        "eb73846b-b215-427d-a3dd-522c78e6570e",
+        "d5ffdfb3-acb6-42bc-8569-13523392f6fc"
     ],
     "tutorial": ""
 }

@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0ccb96d6-8336-465d-b498-412a349af877",
+            "Value": {
+                "id": "f6c12c36-4df1-489d-9383-11a9a33cb9b8",
+                "resourcePath": "objects\\obj_bonetower\\obj_bonetower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1728ac7f-33af-40f4-8e09-7778275ea6bb",
             "Value": {
                 "id": "190641d3-aa75-456a-8208-641f120c1297",

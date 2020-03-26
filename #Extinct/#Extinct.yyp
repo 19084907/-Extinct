@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1683993a-e229-4740-b582-ae377eb0bac1",
+            "Value": {
+                "id": "c6b5406f-8ac9-4e52-8ff4-287b3b4c1e0d",
+                "resourcePath": "objects\\obj_sword\\obj_sword.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1728ac7f-33af-40f4-8e09-7778275ea6bb",
             "Value": {
                 "id": "190641d3-aa75-456a-8208-641f120c1297",

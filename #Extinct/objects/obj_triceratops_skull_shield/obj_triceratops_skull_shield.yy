@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_triceratops_skull_shield",
     "eventList": [
-        
+        {
+            "id": "2973d3b7-7a35-400f-9956-977348c2a715",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 12,
+            "m_owner": "888fddb4-8121-479f-8756-2676d67473bb"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "52cee949-9251-485b-8f69-5e722901bafc",
+            "Value": {
+                "id": "b52c8850-e3f2-4bb7-9212-c399fd98abf4",
+                "resourcePath": "sprites\\spr_triceratopsskullshield\\spr_triceratopsskullshield.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "533a29b4-9c55-4109-acf5-50dec6b893a9",
             "Value": {
                 "id": "8f9cf0cd-a191-49d2-977c-14a36f32a9a7",

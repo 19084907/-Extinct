@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1bce3596-9ec6-4ba1-956e-4d33a241a108",
+            "Value": {
+                "id": "45683538-8487-49b9-b371-845ce1ae4887",
+                "resourcePath": "sprites\\spr_cavekid\\spr_cavekid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2f6ba924-ccc4-4744-ae17-df0f4e8b550b",
             "Value": {
                 "id": "e9fcdebf-09d7-4bd5-a271-fd5bc90c411c",

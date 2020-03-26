@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "272861c2-a99a-443f-9eca-ad247ff0ce75",
+            "Value": {
+                "id": "01b21715-7859-480d-b1f3-281b7a4b984f",
+                "resourcePath": "objects\\obj_Astar\\obj_Astar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2f6ba924-ccc4-4744-ae17-df0f4e8b550b",
             "Value": {
                 "id": "e9fcdebf-09d7-4bd5-a271-fd5bc90c411c",

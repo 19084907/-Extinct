@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "66446bdb-8d5d-4a7c-89c8-784f86c22c2d",
+            "Value": {
+                "id": "7c522252-a81b-4069-8361-7835ec0569cf",
+                "resourcePath": "sprites\\spr_ribcage\\spr_ribcage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7401167c-f833-4dc1-9027-1cab02d55383",
             "Value": {
                 "id": "85b61c8a-7b70-4c98-8cb9-395c86d115bd",
